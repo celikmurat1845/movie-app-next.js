@@ -15,7 +15,7 @@ export default function NotFound() {
         <Image src={"/vecteezy_illustration-vector-graphic-cartoon-character-of-not-connected_6584738.jpg"} width={800} height={500} />
         <br/>
         <Link  href="/">
-        <button className="text-center text-3xl bg-blue-500 font-bold mt-10 p-5 rounded-xl ">Go To Home Page</button>
+        <button className="text-center text-3xl bg-blue-500 font-bold mt-10 p-5 rounded-xl ">Go To Home Page </button>
         </Link>
     </div>
   )
